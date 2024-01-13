@@ -1,0 +1,46 @@
+@mixin H900{font-family: 'Prompt';font-style: normal;font-weight: 700;font-size: 72px;line-height: 108px;letter-spacing: 0px;}
+@mixin H800{font-family: 'Prompt';font-style: normal;font-weight: 700;font-size: 56px;line-height: 84px;letter-spacing: 0px;}
+@mixin H700{font-family: 'Prompt';font-style: normal;font-weight: 700;font-size: 40px;line-height: 60px;letter-spacing: 0px;}
+@mixin H600{font-family: 'Prompt';font-style: normal;font-weight: 700;font-size: 32px;line-height: 48px;letter-spacing: 0px;}
+@mixin H500{font-family: 'Prompt';font-style: normal;font-weight: 700;font-size: 24px;line-height: 36px;letter-spacing: 0px;}
+@mixin H400{font-family: 'Prompt';font-style: normal;font-weight: 700;font-size: 20px;line-height: 32px;letter-spacing: 0px;}
+@mixin H300{font-family: 'Prompt';font-style: normal;font-weight: 600;font-size: 16px;line-height: 24px;letter-spacing: 0px;}
+@mixin H200{font-family: 'Prompt';font-style: normal;font-weight: 600;font-size: 14px;line-height: 20px;letter-spacing: 0px;}
+@mixin H100{font-family: 'Prompt';font-style: normal;font-weight: 600;font-size: 12px;line-height: 16px;letter-spacing: 0px;}
+@mixin Subtitle{font-family: 'Prompt';font-style: normal;font-weight: 500;font-size: 20px;line-height: 32px;letter-spacing: 0px;}
+@mixin Body_Large{font-family: 'Poppins';font-style: normal;font-weight: 500;font-size: 16px;line-height: 24px;letter-spacing: 0.2px;}
+@mixin Body_Medium{font-family: 'Prompt';font-style: normal;font-weight: 500;font-size: 14px;line-height: 20px;letter-spacing: 0.2px;}
+@mixin Body_Small{font-family: 'Prompt';font-style: normal;font-weight: 500;font-size: 12px;line-height: 16px;letter-spacing: 0.2px;}
+@mixin Code_Large{font-family: 'Prompt';font-style: normal;font-weight: 600;font-size: 16px;line-height: 24px;letter-spacing: 0px;}
+@mixin Code_Medium{font-family: 'Prompt';font-style: normal;font-weight: 600;font-size: 14px;line-height: 20px;letter-spacing: 0px;}
+@mixin Code_Small{font-family: 'Prompt';font-style: normal;font-weight: 600;font-size: 12px;line-height: 16px;letter-spacing: 0px;}
+$Dark100:#040116;
+$Dark50:rgba(4,1,22,0.5);
+$Dark0:rgba(4,1,22,0);
+$Darkish100:#050217;
+$Gray100:#3A394C;
+$Gray80:#50505E;
+$Gray60:#838391;
+$Gray40:#BEBEC5;
+$Gray10:#D9D9DD;
+$Gray5:#EAEAEB;
+$Gray0:#F2F2F3;
+$White100:#FFFFFF;
+$White72:rgba(255, 255, 255, 0.72);
+$White40:rgba(255, 255, 255, 0.40);
+$White12:rgba(255, 255, 255, 0.12);
+$Primary100:#4326A4;
+$Primary50:#572CE5;
+$Primary20:#AA91FA;
+$Primary10:#CDBFFD;
+$Primary5:#E1D7FE;
+$Primary0:#F1EEFF;
+$Success:#116942;
+$Success:#1BA769;
+$Success:#DEF2E9;
+$Warning:#A64F21;
+$Warning:#E86825;
+$Warning:#FFE1BE;
+$Alert:#9F1B1F;
+$Alert:#DE1C22;
+$Alert:#FFE0E1;
